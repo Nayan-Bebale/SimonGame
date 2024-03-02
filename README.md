@@ -1,6 +1,8 @@
 # Simon Game
 
 The Simon game is a classic electronic game of memory skill. This GitHub project implements the Simon game using jQuery, a fast, small, and feature-rich JavaScript library.
+
+You can visit and fun <a href="https://nayan-bebale.github.io/SimonGame/">Chick here!</a>
 ## Start game
 <img src="https://github.com/Nayan-Bebale/SimonGame/blob/main/startGame.png" width="600px">
 
